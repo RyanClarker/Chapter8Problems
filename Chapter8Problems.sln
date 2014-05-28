@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter8Problems", "Chapter8Problems\Chapter8Problems.csproj", "{06BDC69D-B327-422A-9375-4A8BA3925090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{16A4F8AD-B6AE-4013-839F-A10D4C4A428E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06BDC69D-B327-422A-9375-4A8BA3925090}.Debug|x86.ActiveCfg = Debug|x86
+		{06BDC69D-B327-422A-9375-4A8BA3925090}.Debug|x86.Build.0 = Debug|x86
+		{06BDC69D-B327-422A-9375-4A8BA3925090}.Release|x86.ActiveCfg = Release|x86
+		{06BDC69D-B327-422A-9375-4A8BA3925090}.Release|x86.Build.0 = Release|x86
+		{16A4F8AD-B6AE-4013-839F-A10D4C4A428E}.Debug|x86.ActiveCfg = Debug|x86
+		{16A4F8AD-B6AE-4013-839F-A10D4C4A428E}.Debug|x86.Build.0 = Debug|x86
+		{16A4F8AD-B6AE-4013-839F-A10D4C4A428E}.Release|x86.ActiveCfg = Release|x86
+		{16A4F8AD-B6AE-4013-839F-A10D4C4A428E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
