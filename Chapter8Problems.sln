@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter8Problems", "Chapter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{16A4F8AD-B6AE-4013-839F-A10D4C4A428E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCircles", "TestCircles\TestCircles.csproj", "{40EE665C-813B-40E3-90F6-311567B37B8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSquares", "DemoSquares.cs\DemoSquares.csproj", "{7501894A-6C02-4DEF-80EA-8847336A7D9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +23,14 @@ Global
 		{16A4F8AD-B6AE-4013-839F-A10D4C4A428E}.Debug|x86.Build.0 = Debug|x86
 		{16A4F8AD-B6AE-4013-839F-A10D4C4A428E}.Release|x86.ActiveCfg = Release|x86
 		{16A4F8AD-B6AE-4013-839F-A10D4C4A428E}.Release|x86.Build.0 = Release|x86
+		{40EE665C-813B-40E3-90F6-311567B37B8C}.Debug|x86.ActiveCfg = Debug|x86
+		{40EE665C-813B-40E3-90F6-311567B37B8C}.Debug|x86.Build.0 = Debug|x86
+		{40EE665C-813B-40E3-90F6-311567B37B8C}.Release|x86.ActiveCfg = Release|x86
+		{40EE665C-813B-40E3-90F6-311567B37B8C}.Release|x86.Build.0 = Release|x86
+		{7501894A-6C02-4DEF-80EA-8847336A7D9C}.Debug|x86.ActiveCfg = Debug|x86
+		{7501894A-6C02-4DEF-80EA-8847336A7D9C}.Debug|x86.Build.0 = Debug|x86
+		{7501894A-6C02-4DEF-80EA-8847336A7D9C}.Release|x86.ActiveCfg = Release|x86
+		{7501894A-6C02-4DEF-80EA-8847336A7D9C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
