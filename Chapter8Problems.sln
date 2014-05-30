@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCircles", "TestCircles\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSquares", "DemoSquares.cs\DemoSquares.csproj", "{7501894A-6C02-4DEF-80EA-8847336A7D9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{74C0CA2A-3FD4-45CC-9CC4-C107BE6693B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +33,10 @@ Global
 		{7501894A-6C02-4DEF-80EA-8847336A7D9C}.Debug|x86.Build.0 = Debug|x86
 		{7501894A-6C02-4DEF-80EA-8847336A7D9C}.Release|x86.ActiveCfg = Release|x86
 		{7501894A-6C02-4DEF-80EA-8847336A7D9C}.Release|x86.Build.0 = Release|x86
+		{74C0CA2A-3FD4-45CC-9CC4-C107BE6693B6}.Debug|x86.ActiveCfg = Debug|x86
+		{74C0CA2A-3FD4-45CC-9CC4-C107BE6693B6}.Debug|x86.Build.0 = Debug|x86
+		{74C0CA2A-3FD4-45CC-9CC4-C107BE6693B6}.Release|x86.ActiveCfg = Release|x86
+		{74C0CA2A-3FD4-45CC-9CC4-C107BE6693B6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
